@@ -18,17 +18,14 @@ try:
         import bs4
 except ImportError:
         os.system("pip2 install bs4")
- import os 
+ import osimport 
 
-import sys
 
-import base64
 
-import random
 
-import requests
 
-import platform
+
+
 
 host="https://mbasic.facebook.com"
 
